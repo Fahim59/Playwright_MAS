@@ -1,0 +1,21 @@
+[
+    {
+        "productName": "ZARA COAT 3",
+
+        "cvv": "1233",
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+
+        "email": "testmustafizur@gmail.com"
+    },
+
+    {
+        "productName": "ADIDAS ORIGINAL",
+
+        "cvv": "1243",
+        "name": "Fahim Shahriar",
+        "country": "Pakistan",
+
+        "email": "testmustafizur@gmail.com"
+    }
+]
